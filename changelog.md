@@ -13,4 +13,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
--Removed dos arquivos: arquivo.txt, arquivo2.txt.
+- Removed dos arquivos: arquivo.txt, arquivo2.txt.
